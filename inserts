@@ -1,0 +1,59 @@
+INSERT INTO literals (name, data) values 
+('startGame1','Por favor manda tu nombre de usuario al endpoint startGame'),
+('CreateUserError', 'Error en la creación del usuario'),
+('Stage1','Un buen dia despiertas en la copa de un gran arbol despiertas a causa de un fuerte dolor de cabeza y un olor nauseabundo. Aqui empieza tu aventura y ya tendras que tomar tu primera decision que vas ha hacer:
+1. Buscar en tus bolsillos
+2. Buscar en el tronco del arbol
+3. Esperar a que pase alguien
+
+Para escoger la opción debes realizar una peticion a
+doAction mas tu id de usuario mas la opción escogida'),
+('s1o1','En tus bolsillos encuentras una postal de tu tia Petunia
+en la que hay escrito:
+Estes donde estes pensaremos en ti.
+Te pones a pensar y no sabes muy bien que es lo que pasa
+y a que se refiere con estes donde estes, pero te levantas decidido 
+a ir a buscar a tu tia petunia y aclarar que es lo que pasa.
+
+Al llegar a casa de tu tia petunia observas que los cristales de la entrada
+estan rotos y decides ir a ver que ha pasado. 
+Al acercarte observas que hay alguien tendido en el suelo, que vas a hacer:
+1.Entrar y ver quien es
+2.Llamar a la policia
+3.No moverte'),
+('s1o2','Te levantas mareado y te aguantas con el arbol cuando te das
+cuenta que hay un agujero en el arbol y decidio metes la mano en el
+notas algo con los dedos por lo que decides cojerlo y al sacar la mano
+te das cuenta de que es un mapa, en el hay una gran cruz roja.
+Lo examinas y reconoces varios lugares del mapa pero no el señalado
+con una cruz roja, por lo que decidido vas a ver que se halla alli.
+
+Al llegar al lugar te encuentras con un edificio abandonado, como estas
+muy interesado entras en, al poco de estar investigando te empieza a perseguir
+una sombra, que vas a hacer:
+1.Quedarte quieto 
+2.Correr 
+3.Enfrentarla'),
+('s1o3','No sabes muy bien que hacer por lo que mareado y con nauseas te quedas sentado
+esperando a que pase alguien o a encontrarte mejor.
+Van pasando las horas pero no aparece nadie y esta anocheciendo
+de repente se escucha una voz detras de unos arboles y decides revisar que hay
+para tu sorpresa detras del arbol hay una cueva de donde proceden los ruidos
+y al acercarte un oso aparece y te mata. Ale pa tu casa crack'),
+('s1o1_s2o1','Al acceder a la casa al ver quien es te quedas anonadado al ver
+tu cuerpo tendido en el suelo y es en este mismo instante que te das cuenta 
+de que estas muerto. Empiezas a recordar que unos ladrones entraron en casa 
+de tu tia tu estabas alli solo cuidando del perro pero cuando te vieron 
+dispararon sin pensarlo'),
+('s1o1_s2o2','Al rebuscar en tus bolsillos no encuentras el telefono por lo que
+te decides a entrar a la casa pero al ver quien es te quedas anonadado por ver
+tu cuerpo tendido en el suelo y es en este mismo instante que te das cuenta 
+de que estas muerto. Empiezas a recordar que unos ladrones entraron en casa 
+de tu tia tu estabas alli solo cuidando del perro pero cuando te vieron 
+dispararon sin pensarlo'),
+('s1o1_s2o3', 'Al estar quieto inmobil observas que tus pies se despegan del suelo
+es en este momento que te das cuenta de que ya no estas vivo ya que tu cadaver yace
+en el interior de la casa de tu tia petunia'),
+('s1o2_s2o1','Al estar quieto la sombra consigue atraparte y esta te mata. Pim pam pum'),
+('s1o2_s2o2','Al irte corriendo la sombra se cabrea y te atrapa a los pocos segundos esta te mata. Pim pam pum'),
+('s1o2_s2o3','Al enfrentarte a la sombra observas que en realidad eres tu y que te moriste ayer')
